@@ -3,3 +3,8 @@ def good():
 
 
 good()
+
+
+def hello():
+    print("Hello")
+
